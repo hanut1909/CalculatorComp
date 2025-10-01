@@ -4,8 +4,8 @@
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
-# Divide num1 by num2
-result = num1 // num2
+# Divide num1 by num2 and return the floagting result
+result = num1 / num2
 
 # Display the result
 print("The result of division is:", result)
